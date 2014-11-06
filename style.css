@@ -1,0 +1,44 @@
+<style type = "text/css">
+
+body { 
+	background-color: #fff;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	font: black 12px;
+}
+
+.center {
+	text-align: center;
+}
+
+.button {
+	padding: 8px 10px;
+	color: red;
+	display: inline-block;
+}
+
+.image {
+	padding-top: 10px;
+	margin: 15px auto;
+	display: block;
+}
+
+.form {
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	text-align: right;
+	padding-right: 15px;
+}
+
+li {
+	display: inline-block;
+	text-align: right;
+	padding: 0 10px
+
+}
